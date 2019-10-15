@@ -3,7 +3,7 @@ layout: default
 title: Managed nodes
 abstract:
   This article describes the concept of a node with a managed life cycle.
-  It aims to document some of the options for supporting manage d-life cycle nodes in ROS 2.
+  It aims to document some of the options for supporting managed-life cycle nodes in ROS 2.
   It has been written with consideration for the existing design of the ROS 2 C++ client library, and in particular the current design of executors.
 author: '[Geoffrey Biggs](https://github.com/gbiggs) [Tully Foote](https://github.com/tfoote)'
 published: true
